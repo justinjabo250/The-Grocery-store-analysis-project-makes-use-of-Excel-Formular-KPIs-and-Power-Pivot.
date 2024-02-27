@@ -1,5 +1,10 @@
 # The-Grocery-store-analysis-project-makes-use-of-Excel-Formular-KPIs-and-Power-Pivot.
-In this project, I'll walk over every step of the process I went through to develop my solution and gather as many ideas as possible to use Excel Power Pivot, KPIs, and Excel Formular to create an excellent solution for the grocery store analysis project.
+
+## In this project, I'll walk over every step of the process I went through to develop my solution and gather as many ideas as possible to use Excel Power Pivot, KPIs, and Excel Formular to create an excellent solution for the grocery store analysis project.
+
+
+![Gocery store](https://github.com/justinjabo250/The-Grocery-store-analysis-project-makes-use-of-Excel-Formular-KPIs-and-Power-Pivot./assets/115732734/f55a646e-45e0-4b0b-95dd-329bf5fea8de)
+
 
 
 # The-Grocery-store-analysis-project-makes-use-of-Excel-Formular-KPIs-and-Power-Pivot.
